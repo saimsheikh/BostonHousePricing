@@ -11,4 +11,8 @@ Create a new environment
 
 '''
 conda create -p venv python==3.9 -y
+<<<<<<< HEAD
 '''
+=======
+'''
+>>>>>>> 37f40ab077d9e5ea0e2cf437d188210d97121d5c
